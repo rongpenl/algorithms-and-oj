@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-12-14 17:17:55, I have solved **21** / **1188** problems while **208** are still locked.
+Until 2019-12-21 11:08:22, I have solved **25** / **1192** problems while **208** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 21
+2. Python: 25
 3. C++: 0
 4. Java: 0
 
@@ -54,7 +54,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
-|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
+|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/trappingrainwater.py)|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -167,7 +167,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|To Do|To Do|To Do|To Do|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/155.%20Min%20Stack/minstack.py)|To Do|To Do|
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
@@ -185,7 +185,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|To Do|To Do|
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/173.%20Binary%20Search%20Tree%20Iterator/binarysearchtreeiterator.py)|To Do|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|To Do|To Do|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -389,7 +389,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Easy|To Do|To Do|To Do|To Do|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |Medium|To Do|To Do|To Do|To Do|
-|394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|To Do|To Do|To Do|To Do|
+|394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/394.%20Decode%20String/decodestring.py)|To Do|To Do|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/) |Medium|To Do|To Do|To Do|To Do|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1107,6 +1107,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) |Medium|To Do|To Do|To Do|To Do|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) |Medium|To Do|To Do|To Do|To Do|
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/) |Medium|To Do|To Do|To Do|To Do|
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) |Medium|To Do|To Do|To Do|To Do|
 |1259|[Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1201,3 +1202,6 @@ Note: :lock: means you need to buy a book from LeetCode
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/) |Medium|To Do|To Do|To Do|To Do|
 |1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) |Medium|To Do|To Do|To Do|To Do|
 |1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/) |Hard|To Do|To Do|To Do|To Do|
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
+|1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium|To Do|To Do|To Do|To Do|
+|1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) |Hard|To Do|To Do|To Do|To Do|
