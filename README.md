@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-12-21 11:08:22, I have solved **25** / **1192** problems while **208** are still locked.
+Until 2020-01-04 14:00:35, I have solved **29** / **1204** problems while **208** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 25
+2. Python: 29
 3. C++: 0
 4. Java: 0
 
@@ -113,7 +113,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|To Do|To Do|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/symmetrictree.py)|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/1037.%20Valid%20Boomerang/validboomerang.py)|To Do|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -203,7 +203,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|To Do|To Do|To Do|To Do|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|To Do|To Do|To Do|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|To Do|To Do|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/207.%20Course%20Schedule/courseschedule.py)|To Do|To Do|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -677,7 +677,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|To Do|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|To Do|To Do|To Do|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|To Do|To Do|To Do|To Do|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/743.%20Network%20Delay%20Time/networkdelaytime.py)|To Do|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|To Do|
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) |Hard|To Do|To Do|To Do|To Do|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -797,7 +797,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|To Do|To Do|To Do|To Do|
 |839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|To Do|To Do|To Do|To Do|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Easy|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/840.%20Magic%20Squares%20In%20Grid/magicsquares.py)|To Do|To Do|
-|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|To Do|To Do|To Do|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/841.%20Keys%20and%20Rooms/keysandrooms.py)|To Do|To Do|
 |842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -1120,7 +1120,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|To Do|To Do|To Do|To Do|
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|To Do|To Do|To Do|To Do|
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) |Easy|To Do|To Do|To Do|To Do|
+|1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/) |Medium|To Do|To Do|To Do|To Do|
 |1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) |Hard|To Do|To Do|To Do|To Do|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|To Do|To Do|To Do|To Do|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1130,6 +1133,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|To Do|To Do|To Do|To Do|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/description/) |Easy|To Do|To Do|To Do|To Do|
 |1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -1205,3 +1209,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium|To Do|To Do|To Do|To Do|
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) |Hard|To Do|To Do|To Do|To Do|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) |Easy|To Do|To Do|To Do|To Do|
+|1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
+|1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/) |Medium|To Do|To Do|To Do|To Do|
+|1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) |Hard|To Do|To Do|To Do|To Do|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) |Easy|To Do|To Do|To Do|To Do|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|
+|1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) |Medium|To Do|To Do|To Do|To Do|
+|1307|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|
