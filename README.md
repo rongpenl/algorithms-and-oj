@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-01-18 06:50:41, I have solved **33** / **1216** problems while **208** are still locked.
+Until 2020-02-01 17:17:48, I have solved **34** / **1228** problems while **208** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 33
+2. Python: 34
 3. C++: 0
 4. Java: 0
 
@@ -376,7 +376,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|To Do|To Do|
-|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|To Do|To Do|
+|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/insertDeleteGetRandom.py)|To Do|To Do|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) |Medium|To Do|To Do|To Do|To Do|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|To Do|To Do|To Do|To Do|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1137,7 +1137,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|To Do|To Do|To Do|To Do|
+|1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/) |Medium|To Do|To Do|To Do|To Do|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/) |Medium|To Do|To Do|To Do|To Do|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|1330|[Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/) |Hard|To Do|To Do|To Do|To Do|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/description/) |Easy|To Do|To Do|To Do|To Do|
 |1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -1229,3 +1233,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) |Medium|To Do|To Do|To Do|To Do|
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/) |Medium|To Do|To Do|To Do|To Do|
 |1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) |Hard|To Do|To Do|To Do|To Do|
+|1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/) |Medium|To Do|To Do|To Do|To Do|
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) |Medium|To Do|To Do|To Do|To Do|
+|1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) |Hard|To Do|To Do|To Do|To Do|
+|1337|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/) |Easy|To Do|To Do|To Do|To Do|
+|1338|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/description/) |Medium|To Do|To Do|To Do|To Do|
+|1339|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) |Medium|To Do|To Do|To Do|To Do|
+|1340|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) |Hard|To Do|To Do|To Do|To Do|
